@@ -1,2 +1,2 @@
-# adsoyadgirmedosyal-
+# adsoyadgirmedosyalı
 Ad ve Soyadlarımızı dosyaya yükleyen program
