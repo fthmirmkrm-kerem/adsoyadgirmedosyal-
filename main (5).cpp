@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-    ofstream dosya2("dosya.txt");
+    ofstream dosya2("Dosya.txt");
 
     for(int i = 0; i < 2; i++){
         string adSoyad;
